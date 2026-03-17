@@ -155,8 +155,6 @@ Every component and mock data entry is fully typed — no implicit `any` anywher
 ### Installation
 
 ```bash
-# Unzip the project archive
-unzip DIVERSE_GROW_App.zip
 cd diverse-grow
 
 # Install dependencies
